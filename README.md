@@ -7,9 +7,9 @@ Frontend Developer
 I am a javascript developer specialized mainly in frontend with react but also know a bit of backend with node. Throughout my career, I have kept myself updated by taking course, reading articles, news, and books about different technologies. I’m always looking for new challenges that constantly make me grow and learn.
 
 *   🌍  I'm based in Mexico
-*   🖥️  See my portfolio at [armandocastillo.dev](http://www.armandocastillo.dev/)
+*   🖥️  See my portfolio at [armandocastillo.dev]()
 *   ✉️  You can contact me at [armandocaslop@gmail.com](mailto:armandocaslop@gmail.com)
-*   🚀  I'm currently working on [skydropx](http://www.skydropx.com/)
+*   🚀  I'm currently working on []()
 *   🧠  I'm learning design patterns and how to improve code in react
 *   🤝  I'm open to collaborating on React projects
 *   ⚡  I help people with react or js/ts problems in discord
